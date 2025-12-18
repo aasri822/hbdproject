@@ -355,11 +355,11 @@ The night may stretch its shadow, but dawn will always break,
 and with it comes the courage to hold on, to wait.
 
 And just in case you ever forget, always remember:
-You matter, You’re awesome, You’re worthy, You’re special, You’re talented, You’re strong, You’re kind, You’re loved, You are enough.
+You matter, You’re special, You’re worthy, You’re awesome, You’re talented, You’re strong, You’re kind, You’re loved, You are enough.
 
 Lastly...
 I’d like to wish you one more time
-A very Happy Birthday, Hana.
+Happy Birthday, Hana.
 
 Thank you for being you.
 
@@ -377,3 +377,4 @@ Thank you for being you.
     // Optional: you can reset or show something here if needed
   };
 }
+
